@@ -1,0 +1,5 @@
+{
+  "name": "Text2Excel Extractor",
+  "description": "An intelligent tool that extracts structured data (Supplier, Problem, Part ID, Serials) from free-text reports and generates a downloadable Excel spreadsheet.",
+  "requestFramePermissions": []
+}
